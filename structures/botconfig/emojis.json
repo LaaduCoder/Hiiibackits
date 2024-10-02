@@ -1,0 +1,72 @@
+{
+  "y": "<:cx_tick:1094532084552450058>",
+  "m": "<:cx_info:1094535301449400381>",
+  "x": "<:cx_cross:1094532252664352859>",
+  "arrow": "",
+    "help":{
+    "cate": "<a:crownn:1119153570286141450>",
+    "info": "<:cx_info:1094535301449400381>",
+    "music": "<:cx_music:1094535092493365298>",
+    "setup": "<:icons_Discord:1099583128844124160>",
+    "mod": "<:icons_mod:1099577525514014761>",
+    "rank": "<a:OFNLAnimated_06:1118904791809138779>",
+    "fun": "😛",
+    "game": "<:icons_games:1099576944745517076>",
+    "giveaway": "<a:Gift:1118903499229495397>",
+    "ticket": "🎟️",
+    "utility": "<:cx_utility:1094535413030465667>",
+    "report": "<:apply:1119154026018254848>"
+  },
+  "p_react":{
+    "view": "1094532084552450058",
+    "info": "1094535301449400381",
+    "music": "1094535092493365298",
+    "setup": "1099583128844124160",
+    "mod": "1099577525514014761",
+    "rank": "1118904791809138779",
+    "fun": "😛",
+    "game": "1099576944745517076",
+    "giveaway": "1118903499229495397",
+    "ticket": "🎟️",
+    "utility": "1094535413030465667",
+    "report": "1119154026018254848"
+  },
+  "music": {
+    "searching": "<a:Search:1119154609798262876>",
+    "play": "<a:RedPlaying:1119154905995808778>",
+    "playImg": "https://images-ext-1.discordapp.net/external/DkPCBVBHBDJC8xHHCF2G7-rJXnTwj_qs78udThL8Cy0/%3Fv%3D1/https/cdn.discordapp.com/emojis/859459305152708630.gif",
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "stop": "⏹",
+    "volume": "🔊",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "addrelatedsong": "<:cx_tick:1094532084552450058>",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "musicButtons": {
+    "pause": "⏸️",
+    "resume": "▶️",
+    "skip": "⏭️",
+    "queue": "📑",
+    "lyrics": "📝",
+    "stop": "⏹",
+    "loop": "🔂",
+    "autoplay": "🔁",
+    "shuffle": "🔀",
+    "less10Sec": "⏪",
+    "forward10Sec": "⏩",
+    "negative10vol": "🔉",
+    "plus10vol": "🔊"
+  },
+  "giveaway": {
+    "react": "<a:giveaway:1118903405105123369>",
+    "drop": "<a:Gift:1118903499229495397>"
+  }
+}
